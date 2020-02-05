@@ -4,3 +4,5 @@ msg3 = "Do, or do not. There is no try."
 msg4 = "Yoda, Star Wars"
 print(msg)
 print(msg2)
+print(msg3)
+print(msg4)
